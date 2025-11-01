@@ -60,6 +60,11 @@ Este projeto tem como objetivo analisar dados do setor portuário brasileiro a p
 
 
 
+# Power BI Preview
 
-  
+![328fb988-29a4-4bef-9f2c-b46957d2a3fb](https://github.com/user-attachments/assets/caaf2ba5-7cd6-420a-8568-da3c6c88fc88)
+
+![762acd4c-1c97-4945-bd19-6dc9b6e9c840](https://github.com/user-attachments/assets/6ca88a3e-5319-42eb-ae50-6ba07e44745f)
+
+
 
